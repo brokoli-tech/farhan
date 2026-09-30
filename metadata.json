@@ -1,0 +1,6 @@
+{
+  "name": "CVguaTu - Generator CV Digital",
+  "description": "Platform pembuat CV profesional modern, rapi, dan siap unduh secara instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
